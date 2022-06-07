@@ -12,6 +12,7 @@
 
     <modules>
         <module>proj-ejb</module>
+        <module>proj-war</module>
     </modules>
 
     <properties>
